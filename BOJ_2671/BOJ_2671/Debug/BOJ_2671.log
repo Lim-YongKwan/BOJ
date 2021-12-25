@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\LimYongKwan\source\repos\BOJ_2671\BOJ_2671\main.cpp(27,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\LimYongKwan\source\repos\BOJ_2671\BOJ_2671\main.cpp(42,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ_2671.vcxproj -> C:\Users\LimYongKwan\source\repos\BOJ_2671\Debug\BOJ_2671.exe
