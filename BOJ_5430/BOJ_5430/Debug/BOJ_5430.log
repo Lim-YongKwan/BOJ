@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_5430\BOJ_5430\main.cpp(64,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_5430\BOJ_5430\main.cpp(92,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ_5430.vcxproj -> C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_5430\Debug\BOJ_5430.exe
