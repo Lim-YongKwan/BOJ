@@ -1,0 +1,7 @@
+*.filters
+*.user
+*.vcxproj
+*.ilk
+*.pdb
+*.exe
+*.sln
