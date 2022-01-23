@@ -12,3 +12,7 @@
 *.exe
 *.ilk
 *.pqb
+*.suo
+*.db
+*.ipch
+*.log
