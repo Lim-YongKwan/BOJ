@@ -5,3 +5,10 @@
 *.pdb
 *.exe
 *.sln
+*.tlog
+*.obj
+*.idb
+*.pdb
+*.exe
+*.ilk
+*.pqb
