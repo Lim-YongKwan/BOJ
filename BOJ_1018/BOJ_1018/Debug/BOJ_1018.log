@@ -1,6 +1,2 @@
 ﻿  main.cpp
-C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_1018\BOJ_1018\main.cpp(8,6): error C2086: 'int function::a': 재정의
-C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_1018\BOJ_1018\main.cpp(6): message : 'function::a' 선언을 참조하십시오.
-C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_1018\BOJ_1018\main.cpp(14,11): error C2248: 'function::a': private 멤버('function' 클래스에서 선언)에 액세스할 수 없습니다.
-C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_1018\BOJ_1018\main.cpp(6): message : 'function::a' 선언을 참조하십시오.
-C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_1018\BOJ_1018\main.cpp(5): message : 'function' 선언을 참조하십시오.
+  BOJ_1018.vcxproj -> C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_1018\Debug\BOJ_1018.exe

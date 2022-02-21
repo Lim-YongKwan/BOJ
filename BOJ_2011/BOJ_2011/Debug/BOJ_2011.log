@@ -1,0 +1,5 @@
+﻿  BOJ_2011.cpp
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2011\BOJ_2011\BOJ_2011.cpp(33,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2011\BOJ_2011\BOJ_2011.cpp(40,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2011\BOJ_2011\BOJ_2011.cpp(45,30): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BOJ_2011.vcxproj -> C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2011\Debug\BOJ_2011.exe
