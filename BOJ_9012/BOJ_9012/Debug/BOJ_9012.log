@@ -1,0 +1,4 @@
+﻿  BOJ_9012.cpp
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_9012\BOJ_9012\BOJ_9012.cpp(20,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_9012\BOJ_9012\BOJ_9012.cpp(35,16): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  BOJ_9012.vcxproj -> C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_9012\Debug\BOJ_9012.exe

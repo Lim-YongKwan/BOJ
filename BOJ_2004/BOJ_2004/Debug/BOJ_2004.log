@@ -1,0 +1,8 @@
+﻿  BOJ_2004.cpp
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2004\BOJ_2004\BOJ_2004.cpp(16,20): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2004\BOJ_2004\BOJ_2004.cpp(19,19): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2004\BOJ_2004\BOJ_2004.cpp(22,20): warning C4244: '-=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2004\BOJ_2004\BOJ_2004.cpp(25,19): warning C4244: '-=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2004\BOJ_2004\BOJ_2004.cpp(28,23): warning C4244: '-=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2004\BOJ_2004\BOJ_2004.cpp(31,22): warning C4244: '-=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BOJ_2004.vcxproj -> C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2004\Debug\BOJ_2004.exe

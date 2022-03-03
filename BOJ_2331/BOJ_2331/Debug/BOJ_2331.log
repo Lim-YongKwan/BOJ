@@ -1,0 +1,4 @@
+﻿  BOJ_2331.cpp
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2331\BOJ_2331\BOJ_2331.cpp(18,27): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2331\BOJ_2331\BOJ_2331.cpp(33,29): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BOJ_2331.vcxproj -> C:\Users\LimYongKwan\Documents\GitHub\BOJ\BOJ_2331\Debug\BOJ_2331.exe

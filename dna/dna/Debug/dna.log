@@ -1,0 +1,4 @@
+﻿  dna.cpp
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\dna\dna\dna.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\LimYongKwan\Documents\GitHub\BOJ\dna\dna\dna.cpp(17,14): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  dna.vcxproj -> C:\Users\LimYongKwan\Documents\GitHub\BOJ\dna\Debug\dna.exe
